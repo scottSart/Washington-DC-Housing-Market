@@ -20,7 +20,7 @@ This repo processes and visualizes real estate data from Zillow and Apartment Li
 3. Running the Code
 * Simply run the main analysis script. It will:
 4. Create subdirectories: New Inventory on Market and Total Inventory on Market
-* Pull data from Zillow and local CSV
+* Pull data from Zillow and local CSV (download from apartmentlist.com)
 * Clean, pivot, and compute percentage changes
 * Generate and save visualizations in the corresponding directories
 5. Data Sources
